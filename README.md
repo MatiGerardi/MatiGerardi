@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2023<br>📚 I'm currently learning a lot of things ...<br>🎯 Goals: be a good colleague and professional<br>🎲 Fun fact: ...</p>
+<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning a lot of things ...<br>🎯 Goals: be a good colleague and professional</p>
 
 ###
 
